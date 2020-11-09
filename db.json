@@ -1,0 +1,39 @@
+{
+  "passengers": [
+    {
+      "fullname": "Grisha1222222",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "hand-hold",
+      "checkedInDate": 1111111
+    },
+    {
+      "id": 2,
+      "fullname": "Alen",
+      "checkedIn": false,
+      "checkedInDate": 344544532,
+      "baggage": ""
+    },
+    {
+      "fullname": "Sveta",
+      "id": 3,
+      "checkedIn": true,
+      "baggage": "hand-only",
+      "checkedInDate": 1601210266665
+    },
+    {
+      "fullname": "Sveta",
+      "id": 4,
+      "checkedIn": true,
+      "baggage": "hand-only",
+      "checkedInDate": 1601210266665
+    },
+    {
+      "id": 5,
+      "fullname": "Alena",
+      "checkedIn": true,
+      "checkedInDate": 344544532,
+      "baggage": ""
+    }
+  ]
+}
